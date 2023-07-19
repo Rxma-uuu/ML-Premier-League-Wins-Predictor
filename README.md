@@ -1,7 +1,7 @@
 # ML-Premier-League-Wins-Predictor
 
 ## Overview
-ML-Premier-League-Wins-Predictor is a machine learning project that aims to predict the number of wins for each team in the Premier League using linear regression. The project also explores the factors that contribute to becoming a champion and analyzes their importance in winning the league title.
+ML-Premier-League-Wins-Predictor is my first machine learning project that predicts the number of wins for each team in the Premier League using linear regression. Explore the key factors that contribute to becoming a champion in one of the world's most competitive football leagues. Jupyter Notebook and code included.
 
 ## Data Sources
 The project utilizes several datasets related to the Premier League:
