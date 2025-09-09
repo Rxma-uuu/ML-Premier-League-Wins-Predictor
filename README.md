@@ -42,7 +42,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Authors
-- Robert Rusev - [robertrusev](https://github.com/RobertRusev)
+- Rama
 
 ## Acknowledgments
 Special thanks to Kaggle and FBref for providing the datasets used in this project.
